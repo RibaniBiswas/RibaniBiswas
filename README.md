@@ -33,11 +33,4 @@ Staying focused in C PROGRAMMING| PYTHON| DSA|
 
 
 
-<br>
-<div align="center">
-    <!-- GitHub Trophies -->
-    <img src="https://github-profile-trophy.vercel.app/?username=skmirajulislam&theme=darkhub&column=9&margin-w=11"
-        alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
-</div>
 
-<br>
