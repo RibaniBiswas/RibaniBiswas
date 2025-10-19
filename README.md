@@ -16,7 +16,7 @@
 </p>
 
 <div align="center" width="50%">
-    <b><p><strong> CS STUDENT 🎓(Women’s Polytechnic Chandernagore)| Passionate about coding and technology 👩‍💻| Exploring new concepts in computer science💻|C PROGRAMMING| PYTHON |DSA|Coding is my love language :) </p></b></strong>
+    <b><p><strong>CS STUDENT 🎓(Women’s Polytechnic Chandernagore)| Passionate about coding and technology 👩‍💻| Exploring new concepts in computer science💻|C PROGRAMMING| PYTHON |DSA|Coding is my love language :) </p></b></strong>
     <img  src="https://images.pexels.com/photos/4471314/pexels-photo-4471314.jpeg" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="60%"
         style="border-radius: 20px;" />
     <br>
