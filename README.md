@@ -2,15 +2,15 @@
         width="25px">
 </h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/sk-mirajul-islam-876438261/">
+    <a href="https://www.linkedin.com/in/ribani-biswas-79347838b/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Sk Mirajul LinkedIn" height='20' width='90' />
     </a>
-    <a href="https://github.com/skmirajulislam">
+    <a href="https://github.com/RibaniBiswas">
         <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20"
             alt="Sk Mirajul GitHub" height='20' width='80' />
     </a>
-        <a href="mailto:skmirajulislam181@gmail.com">
+        <a href="mailto:ribanibiswas2006@gmail.com">
                 <img src="https://img.shields.io/static/v1?message=Email&style=for-the-badge&logo=Email&&logoColor=white&color=orange&label=%20"
             alt="Sk Mirajul GitHub" height='20' width='80' />
         </a>
