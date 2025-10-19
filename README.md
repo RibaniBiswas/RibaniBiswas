@@ -1,5 +1,4 @@
-<h1 align="center"> Yo!!! I'm Ribani Biswas  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-        width="25px">
+<h1 align="center"> Yo!!! I'm Ribani Biswas  <img <img width="25px" height="1365" alt="image" src="https://github.com/user-attachments/assets/28f79d4b-d914-48cf-bc1e-64e3e6b89fc6" />
 </h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/ribani-biswas-79347838b/">
