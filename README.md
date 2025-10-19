@@ -21,12 +21,12 @@
         style="border-radius: 20px;" />
     <br>
     <h1 align="center"> ABOUT ME
-    <p><b>"Hey! me Ribani Biswas 👋 👩🏻‍🎓
+    <p>"Hey! me Ribani Biswas 👋 👩🏻‍🎓
 Pursuing diploma in computer science 💻.
 Trying to building amazing and interesting projects👩‍💻.
 Passionate about breaking down complex problems.📒💻
 Staying focused in C PROGRAMMING| PYTHON| DSA|
-        🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</p></b>
+        🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</p>
     <!-- Streak feature -->
     
 </div>
