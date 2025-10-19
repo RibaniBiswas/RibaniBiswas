@@ -18,7 +18,7 @@
 
 <div align="center" width="50%">
     <b><p> Coding is my love language :) </p></b>
-    <img src="lofiboy.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="60%"
+    <img src="https://images.pexels.com/photos/4471314/pexels-photo-4471314.jpeg" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="60%"
         style="border-radius: 20px;" />
     <br>
     <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p>
