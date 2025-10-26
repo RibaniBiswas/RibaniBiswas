@@ -38,15 +38,9 @@ Staying focused in C PROGRAMMING| PYTHON| DSA|
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmer-ribani&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-ribani&theme=tokyonight" alt="GitHub streak" />
-</p>
+## 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ribani-biswas-79347838b?" target="_blank">
 
 
 
