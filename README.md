@@ -38,7 +38,9 @@ Staying focused in C PROGRAMMING| PYTHON| DSA|
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </p>
 
-<p>
+
+
+
 ## If you like my projects ,then give my repos a star⭐
-</p>
+
 
