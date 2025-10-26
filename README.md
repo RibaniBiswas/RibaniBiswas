@@ -42,6 +42,7 @@ Staying focused in C PROGRAMMING| PYTHON| DSA|
 ## 🌐 Connect With Me  
 🔗 **LinkedIn:** 
     <a href="https://www.linkedin.com/in/ribani-biswas-79347838b/">
+    </a>
 </p>
 
 
