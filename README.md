@@ -41,6 +41,6 @@ Staying focused in C PROGRAMMING| PYTHON| DSA|
 
 
 
-## If you like my projects ,then give my repos a star⭐
+
 
 
