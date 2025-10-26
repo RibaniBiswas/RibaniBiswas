@@ -1,4 +1,4 @@
-<h1 align="center"> Yo!!! I'm Ribani Biswas 
+<h1 align="center"> Yo!!!👋 I'm Ribani Biswas 
 </h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/ribani-biswas-79347838b/">
@@ -37,6 +37,17 @@ Staying focused in C PROGRAMMING| PYTHON| DSA|
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/RibaniBiswas&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/RibaniBiswas&theme=tokyonight" alt="GitHub streak" />
+</p>
+
 
 
 
