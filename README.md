@@ -38,9 +38,7 @@ Staying focused in C PROGRAMMING| PYTHON| DSA|
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </p>
 
-## 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/ribani-biswas-79347838b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+
 
 
 
