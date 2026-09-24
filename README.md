@@ -17,7 +17,7 @@
 
 <div align="center" width="50%">
   <h2 align="center"> <b> <strong>CS STUDENT 🎓(Women’s Polytechnic Chandernagore)| Passionate about coding and technology 👩‍💻|Coding is my love language :) </strong></b></h2>
-    <img <img width="1080" height="270" alt="image" src="https://github.com/user-attachments/assets/be07d913-d1d0-4808-ab59-28291e4aeb81" />
+   
 
  <br>
     <h3 align="center"> ABOUT ME </h3>
