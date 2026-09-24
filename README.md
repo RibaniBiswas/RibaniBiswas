@@ -36,6 +36,10 @@ Staying focused in C PROGRAMMING| PYTHON| DSA|
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <img width="256" height="148" alt="image" src="https://github.com/user-attachments/assets/936a08bd-9436-484a-b2d7-eb5fd3c01f71" />
+    <img width="256" height="148" alt="image" src="https://github.com/user-attachments/assets/2ed8a9ef-7d83-4b77-883d-7d9768efda8d" />
+
+
 </p>
 
 
